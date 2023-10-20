@@ -1,0 +1,24 @@
+body{
+    background-color: #202020;
+    color: #fff;
+}
+li{
+    cursor:pointer;
+}
+li a{
+    cursor:pointer;
+}
+.modal-content {
+    background: #202020;
+}
+h1 {
+    color: #fff;
+    text-align: center;
+}
+.container .row{margin-top: 50px;}
+.cards {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.card{color:#000;}
